@@ -27,12 +27,12 @@ Features:
 ## ▶️ How to Run
 
 1. Ensure you have Python 3 installed.
-2. Save the game as `guess_number_advanced.py`
+2. Save the game as `guess_number.py`
 3. Create a blank file named `highscore.txt` in the same directory.
 4. Run the game:
 
 ```bash
-python guess_number_advanced.py
+python guess_number.py
 🎯 Welcome to the Advanced 'Guess the Number' Game!
 Choose difficulty:
 1 - Easy (Unlimited attempts)
